@@ -1,0 +1,2 @@
+# PiHoleNLSites
+MIGHT NOT BE UP TO DATE! PULL REQUESTS APPRECIATED. Pi Hole block dutch sites.
